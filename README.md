@@ -2,6 +2,7 @@
 <table>
   <tr>
     <td>1.</td>
-    <td>[Getting Started](1-GettingStarted.ipynb)</td>
+    <td><a href="1-GettingStarted.ipynb">Getting Started</a></td>
   </tr>
 </table>
+
